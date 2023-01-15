@@ -38,11 +38,6 @@
   </nav>
 </template>
 
-<script>
-import NavBarItem from "./NavBarItem.vue";
-export default {
-  components: { NavBarItem },
-};
-</script>
+<script></script>
 
 <style></style>

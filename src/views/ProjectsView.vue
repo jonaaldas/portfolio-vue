@@ -24,7 +24,7 @@
       <div v-if="activeTab === 'email'">
         <h2 class="p-2 md:text-base leading-relaxed slg:text-lg slg:leading-8">
           Here are my Email development projects. They are built with MJML and
-          pure HTML, CSS. Testes with Litmus.
+          pure HTML, CSS and tested with Litmus.
         </h2>
         <MainProjectItem
           v-for="project in email"

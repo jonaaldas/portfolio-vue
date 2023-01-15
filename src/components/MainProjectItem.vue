@@ -28,7 +28,7 @@
 
 <script>
 export default {
-  props: ["name", "image", "description", "tech", "link"],
+  props: ["name", "image", "description", "tech", "link", "github"],
 };
 </script>
 

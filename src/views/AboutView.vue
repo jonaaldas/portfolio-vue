@@ -12,7 +12,7 @@
             class="text-sm md:text-base leading-relaxed slg:text-lg slg:leading-8 p-3"
           >
             Hi there! My name is Jonathan Aldas and I am a software developer
-            with expertise in full stack development and Shopify development. I
+            with expertise in full stack development and Email Development. I
             have been working in the tech industry for 2+ years and have a
             passion for building innovative and high-quality websites and
             applications.
@@ -23,10 +23,10 @@
             I have had the opportunity to work with clients from various
             industries, including e-commerce, finance, and healthcare. My
             skillset includes proficiency in languages such as JavaScript as
-            well as experience with frameworks such as Vuejs, Shopify and
-            Hydrogen. In addition to my technical skills, I am also a strong
-            communicator and enjoy collaborating with clients to understand
-            their unique needs and goals.
+            well as experience with frameworks such as Vuejs, MJML and . In
+            addition to my technical skills, I am also a strong communicator and
+            enjoy collaborating with clients to understand their unique needs
+            and goals.
           </div>
           <div
             class="text-sm md:text-base leading-relaxed slg:text-lg slg:leading-8 p-3"
