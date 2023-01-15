@@ -6,8 +6,8 @@
       Full-stack Software Engineer
     </h1>
     <div class="text-sm md:text-base leading-relaxed slg:text-lg slg:leading-8">
-      I'm Jonathan Aldas, I am specialising in Frontend Development Email
-      Development with Vue 3, TypeScript, Express, MJMLS and Salesforce
+      I'm Jonathan Aldas, I am a Frontend Engineer and an Email Developer. My
+      stack is Vue 3, TypeScript, Express, MJMLS and Salesforce and more...
     </div>
 
     <Socials />
