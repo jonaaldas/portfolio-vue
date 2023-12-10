@@ -21,7 +21,7 @@
     </ul>
     <!-- <hr class="bg-squgily bg-repeat border-0 h-[6px] opacity-25" /> -->
     <div class="flex flex-col items-center justify-center gap-28">
-      <div v-if="activeTab === 'email'">
+      <div class="w-full" v-if="activeTab === 'email'">
         <h2 class="p-2 md:text-base leading-relaxed slg:text-lg slg:leading-8">
           Here are my Email development projects. They are built with MJML and
           pure HTML, CSS and tested with Litmus.
@@ -37,7 +37,7 @@
           :github="project.github"
         />
       </div>
-      <div v-if="activeTab === 'fullstack'">
+      <div class="w-full" v-if="activeTab === 'fullstack'">
         <h2
           class="text-sm md:text-base leading-relaxed slg:text-lg slg:leading-8"
         >

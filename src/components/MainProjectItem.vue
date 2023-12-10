@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-col items-center gap-8 p-4">
     <img :alt="name" :src="image" class="rounded-lg w-full" />
-    <div class="flex flex-col md:w-5/6 items-left gap-6">
+    <div class="flex flex-col md:w-5/6 items-left gap-6 w-full">
       <span class="font-theme_bold text-2xl text-head_text">{{ name }}</span>
       <p class="text-sm lg:text-lg">{{ description }}</p>
       <div class="flex p-2">

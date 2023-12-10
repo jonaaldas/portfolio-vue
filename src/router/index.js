@@ -4,6 +4,8 @@ import Blog from "../views/BlogView.vue";
 import Home from "../views/HomeView.vue";
 import Projects from "../views/ProjectsView.vue";
 import SingleBlogPost from "../views/SingleBlogPostView.vue";
+import PrivacyPolicy from "../views/PrivacyPolicyView.vue";
+
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
@@ -31,6 +33,11 @@ const router = createRouter({
       path: "/blog/:id",
       name: "blog",
       component: SingleBlogPost,
+    },
+    {
+      path: "/extension_privacy_policy",
+      name: "privacy_policy",
+      component: PrivacyPolicy,
     },
   ],
 });
